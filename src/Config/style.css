@@ -1,0 +1,10 @@
+.config {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.submitBtn {
+    width: 100%;
+}
